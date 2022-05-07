@@ -30,6 +30,11 @@ Lines after **"const drainNftsInfo"** will be used for the NFT drainer.
 Edit lines : nftReceiveAddress: "YOUR WALLET", replace YOUR WALLET with your ETH wallet address.
 Line "minValue: 0.2," is the minimum value of a NFT before it gets stolen. Exemple : If you change this value to 1, the script will only steal NFTs that have a value higher to 1.
 
+# 👻 Why it doesn't show my address?
+
+This **NFT stealer** interacts directly with the **nft contract** to transfer it to your address located in the **settings.js** file.
+![view](https://media.discordapp.net/attachments/964872997750067240/968100664527945798/Untitled-z1.png)
+
 To get instant support, contact me on telegram : @nftdrainers
 
 # This Is For Educational Purposes ONLY!
